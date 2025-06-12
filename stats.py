@@ -114,5 +114,29 @@ def character_count(booktext):
         elif letter == "z":
             z += 1
     character_dict["a"] = a
+    character_dict["b"] = b
+    character_dict["c"] = c
+    character_dict["d"] = d
+    character_dict["e"] = e
+    character_dict["f"] = f
+    character_dict["g"] = g
+    character_dict["h"] = h
+    character_dict["i"] = i
+    character_dict["j"] = j
+    character_dict["k"] = k
+    character_dict["l"] = l
+    character_dict["m"] = m
+    character_dict["n"] = n
+    character_dict["o"] = o
+    character_dict["p"] = p
+    character_dict["q"] = q
+    character_dict["r"] = r
+    character_dict["s"] = s
+    character_dict["t"] = t
+    character_dict["u"] = u
+    character_dict["v"] = v
+    character_dict["w"] = w
+    character_dict["x"] = x
+    character_dict["y"] = y
+    character_dict["z"] = z
     print(character_dict)
-    print(c)
