@@ -25,4 +25,5 @@ def sorted_list(chars_dict):
             num = chars_dict[letters]
             new_dict = {"char" : char, "num": num}
             sort_list.append(new_dict)
+    sort_list.sort(reverse=True, key=sort_on)
     return sort_list
