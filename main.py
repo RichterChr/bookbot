@@ -1,6 +1,6 @@
 import sys
 
-from stats import word_count, character_count, sorted_list, sort_on
+from stats import word_count, character_count, sorted_list
 
 def main():
     if len(sys.argv) != 2:
